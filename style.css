@@ -1,0 +1,40 @@
+h1 {
+    font-family: Verdana;
+    font-size: 32px;
+    color: blue;
+}
+
+a {
+    color: red;
+}
+
+p {
+    font-family: Verdana;
+    text-indent: 32px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 20px;
+    border-left: 5px solid red;
+    border-bottom: 5px solid red;
+}
+
+li {
+    font-family: Verdana;
+    line-height: 1.5;
+}
+
+.text-del {
+    font-family: Verdana;
+    line-height: 1.5;
+    text-decoration: line-through;
+}
+
+img {
+    border: 5px solid gray;
+}
+
+img:hover {
+    border: 5px solid pink;
+}
